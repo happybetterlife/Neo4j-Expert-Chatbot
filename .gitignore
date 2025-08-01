@@ -1,0 +1,6 @@
+.env
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+neo4j-cypher-manual-5.pdf
